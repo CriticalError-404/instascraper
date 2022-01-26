@@ -10,10 +10,10 @@ import random
 from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.chrome.options import Options
 
-bot_username = 'im.vncs' #seu nome de usuario do instagram
-bot_password = 'Vini1805' #sua senha do instagram
+bot_username = ' ' #seu nome de usuario do instagram
+bot_password = ' ' #sua senha do instagram
 
-profiles = ['gusttavolima'] #coloca qualquer perfil que seja adequado ao seu nicho
+profiles = [' '] #coloca qualquer perfil que seja adequado ao seu nicho
 amount = 500 #quantidade de perfis para vc procurar
 
 # 'usernames' or 'links'
