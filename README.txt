@@ -1,6 +1,4 @@
 Projeto criaddo por Vinicius (CriticalError-404)
-<img src="C:/Users/vinim/Downloads/img.jpeg">
-
 
 Primeiro deverá abrir o local do arquivo
 
